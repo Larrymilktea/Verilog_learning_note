@@ -8,5 +8,5 @@ module and_gate (
     input  b,
     output y
 );
-  assign y = a & b;   // AND 邏輯運算
+assign y = a & b;   // AND 邏輯運算
 endmodule

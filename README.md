@@ -16,3 +16,5 @@ gtkwave：[Macbook M1使用vscode+iverilog+gtkwave实现Verilog代码的编译�
 ### testfile 是我的模板，and_gate.v 和 tb.v (tb==testbench) 是一組的測試， test.v 是自己一組把 tb 寫在裡面的
 
 之後會把自己寫的東西放上來💪
+
+## 學習verilog可以到這邊 [HDLbits](https://hdlbits.01xz.net/wiki/Problem_sets)
